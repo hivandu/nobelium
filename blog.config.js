@@ -1,5 +1,5 @@
 const BLOG = {
-  title: '叉叶木 MAMT',
+  title: '茶木 MAMT',
   author: 'Hivan Du',
   email: 'doo@hivan.me',
   link: 'https://hivan.me',
